@@ -20,7 +20,7 @@ st.bar_chart(df)
 #Sidebar, image and video
 st.sidebar.title("Navigation")
 st.subheader("Display Image")
-st.image("C:\\Users\\TANUSHREE\\Downloads\\Sample image.webp", caption="sample Image")
+st.image("sample_image.webp", caption="Sample Image")
 st.video("https://youtu.be/ryUxrFUk6MY?si=bYR5J3TpjAvEHivy")
 
 #upload csv file
